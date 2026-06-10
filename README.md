@@ -6,9 +6,18 @@
 
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DungDao59/DungDao59/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="border-radius:20px; padding:16px;">
+        <img
+          src="https://raw.githubusercontent.com/DungDao59/DungDao59/output/github-contribution-grid-snake.svg"
+          alt="snake gif"
+        />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## About Me
 
