@@ -5,7 +5,10 @@
 ### Im a Software Engineer · Ho Chi Minh city, Viet Nam
 
 </div>
-![snake gif](https://github.com/DungDao59/DungDao59/blob/output/github-contribution-grid-snake.gif)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DungDao59/DungDao59/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
 
 ## About Me
 
