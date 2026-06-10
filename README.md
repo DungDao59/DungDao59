@@ -6,7 +6,6 @@
 
 </div>
 ![Snake animation](https://github.com/DungDao59/DungDao59/blob/output/github-contribution-grid-snake.svg)
----
 
 ## About Me
 
