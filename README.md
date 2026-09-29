@@ -132,6 +132,15 @@ END PORTFOLIO -->
 
 <!-- WakaTime stats are filled in automatically by the waka-readme workflow. Keep both markers exactly as they are. -->
 <!--START_SECTION:waka-->
+
+```txt
+From: 21 September 2026 - To: 28 September 2026
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ---
