@@ -128,7 +128,7 @@ END PORTFOLIO -->
 
 ---
 
-## This Week I Coded In
+## Coding Activity
 
 <!-- WakaTime stats are filled in automatically by the waka-readme workflow. Keep both markers exactly as they are. -->
 <!--START_SECTION:waka-->
