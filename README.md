@@ -134,15 +134,15 @@ END PORTFOLIO -->
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 September 2026 - To: 01 October 2026
+From: 02 September 2026 - To: 02 October 2026
 
-Total Time: 35 hrs 16 mins
+Total Time: 37 hrs 8 mins
 
-JavaScript   14 hrs 57 mins        ██████████▒░░░░░░░░░░░░░░   41.37 %
-TypeScript   5 hrs 48 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.05 %
-Bash         57 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
-Other        53 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
-HTML         38 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+JavaScript   14 hrs 57 mins        ██████████░░░░░░░░░░░░░░░   39.35 %
+TypeScript   7 hrs 36 mins         █████░░░░░░░░░░░░░░░░░░░░   20.02 %
+Bash         57 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+Other        53 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+HTML         38 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
 ```
 
 <!--END_SECTION:waka-->
