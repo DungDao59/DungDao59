@@ -10,12 +10,10 @@
 </p>
 
 <p align="center">
+  <a href="https://portfolio-ecru-eight-89.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/tien-dung-dao-a2281a370/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://drive.google.com/file/d/1dJmzbqaeFklVilQj-x1PhoFoWGnY1KwU/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-0EA5E9?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
   <a href="mailto:dungdao.work@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <!-- Uncomment when your portfolio is live:
-  <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  -->
 </p>
 
 <p align="center">
@@ -72,13 +70,11 @@ I'm a **full-stack developer who leans backend**. I like the part of a product n
 </td>
 <td width="50%" valign="top">
 <br>
-<!-- PORTFOLIO SLOT: when your portfolio is ready, delete this line and the "END PORTFOLIO" line below, then fill in the links.
-<h3>💼 <a href="https://github.com/DungDao59/YOUR-REPO">Portfolio</a></h3>
-<p>One-line description of your portfolio site.</p>
-<p><code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code></p>
+<h3>💼 <a href="https://github.com/DungDao59/Portfolio">Developer Portfolio</a></h3>
+<p>An immersive portfolio with a 3D retro-computer hero, a scroll "dive" into the screen, and an accessible no-3D fallback for mobile and reduced-motion users.</p>
+<p><code>Next.js</code> <code>TypeScript</code> <code>React Three Fiber</code> <code>Tailwind</code> <code>Vitest</code></p>
 <p><b>Role:</b> solo project · design, build and deploy</p>
-<p>📂 <a href="https://github.com/DungDao59/YOUR-REPO">Repo</a> · 🌐 <a href="https://YOUR-PORTFOLIO-URL">Live site</a></p>
-END PORTFOLIO -->
+<p>📂 <a href="https://github.com/DungDao59/Portfolio">Repo</a> · 🌐 <a href="https://portfolio-ecru-eight-89.vercel.app">Live site</a></p>
 <br>
 </td>
 </tr>
