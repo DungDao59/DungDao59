@@ -74,7 +74,7 @@ I'm a **full-stack developer who leans backend**. I like the part of a product n
 <p>An immersive portfolio with a 3D retro-computer hero, a scroll "dive" into the screen, and an accessible no-3D fallback for mobile and reduced-motion users.</p>
 <p><code>Next.js</code> <code>TypeScript</code> <code>React Three Fiber</code> <code>Tailwind</code> <code>Vitest</code></p>
 <p><b>Role:</b> solo project · design, build and deploy</p>
-<p>📂 <a href="https://github.com/DungDao59/Portfolio">Repo</a> · 🌐 <a href="https://portfolio-ecru-eight-89.vercel.app">Live site</a></p>
+<p>📂 <a href="https://github.com/DungDao59/Portfolio">Repo</a> · 🌐 <a href="https://www.dungdao.site/ ">Live site</a></p>
 <br>
 </td>
 </tr>
