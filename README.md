@@ -130,14 +130,14 @@ I'm a **full-stack developer who leans backend**. I like the part of a product n
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 September 2026 - To: 04 October 2026
+From: 05 September 2026 - To: 05 October 2026
 
-Total Time: 41 hrs 25 mins
+Total Time: 41 hrs 15 mins
 
-JavaScript   14 hrs 43 mins        ████████▓░░░░░░░░░░░░░░░░   34.70 %
-TypeScript   10 hrs 55 mins        ██████▒░░░░░░░░░░░░░░░░░░   25.74 %
-Bash         1 hr 17 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-Other        1 hr 1 min            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+JavaScript   14 hrs 37 mins        ████████▓░░░░░░░░░░░░░░░░   34.61 %
+TypeScript   10 hrs 55 mins        ██████▒░░░░░░░░░░░░░░░░░░   25.84 %
+Bash         1 hr 13 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+Other        1 hr 1 min            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
 HTML         38 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
 ```
 
